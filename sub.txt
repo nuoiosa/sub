@@ -1,1 +1,1 @@
-vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?type=ws&path=%252Fworryfree&host=sg-vless-ws.bypass.id#005%2F18h%2C%201852%2C%20-ge%2C%20%F0%9F%87%B8%F0%9F%87%AC%20%7C%E2%9A%A1%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Jurong%20West%29%20%7C%20%5BBL%5D
+vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?type=ws&path=%252Fworryfree&host=sg-vless-ws.bypass.id#006%2F18h%2C%201790%2C%20-ge%2C%20%F0%9F%87%B8%F0%9F%87%AC%20%7C%E2%9A%A1%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Jurong%20West%29%20%7C%20%5BBL%5D
